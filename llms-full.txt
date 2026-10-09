@@ -2461,6 +2461,34 @@ Why connect the repair to a maintenance plan?
 
 The U.S. Department of Energy identifies reliability-centered maintenance as an approach to organizing operations and maintenance. A practical repair handover should preserve the findings and establish what to monitor next. Site-specific records are needed to judge future changes; a generic checklist cannot establish a gearbox’s remaining life. Source: Department of Energy maintenance guidance .
 
+What does published bearing failure research tell us?
+
+SKF’s 2022 bearing investigation summary reports abrasive wear in 26% of the failure modes identified. That percentage describes SKF’s investigation dataset, not all industrial gearboxes or this business’s repair history. The useful maintenance question is whether inspection and lubricant evidence support a contamination or lubrication problem. SKF investigation findings and dataset context .
+
+The same SKF study reports surface-initiated fatigue at 16%. The article links this damage mechanism with surface distress, poor lubrication, and poor cleanliness. Seeing a damaged surface does not establish its initiating cause; document the pattern and compare it with the operating history.
+
+SKF’s published data also identifies moisture corrosion at 14%. Its discussion connects moisture ingress with bearing damage. For a repair assessment, retain information about storage, washdown, sealing, lubricant condition, and downtime. These records help an investigator evaluate a possible moisture pathway.
+
+The International Organization for Standardization’s ISO 15243:2017 classification, summarized by SKF, groups operating bearing damage into 6 main categories: rolling contact fatigue, wear, corrosion, electrical erosion, plastic deformation, and cracking or fracture. Classification describes the damage mechanism; it does not by itself establish the root cause.
+
+How does the gearbox ratio relate to shaft speed?
+
+NORD’s selection guidance defines output speed as input speed divided by the reduction ratio. For an illustrative 4:1 reduction with an actual input of 1,800 rpm, the calculated output is 450 rpm, or 25% of input speed. This example explains the arithmetic; it does not identify a gearbox’s rated capacity. NORD selection information (PDF) .
+
+Record the nameplate ratio and actual operating speed separately. A motor’s nominal rating is not a measurement of its running speed. Variable-speed operation also changes the input. If output appears wrong, compare the records before concluding that the gearing has failed. The required direction of rotation and connected machine requirements also belong in the assessment.
+
+What makes an inspection measurement useful?
+
+A useful dimensional record identifies the component, measurement location, instrument, unit, result, and comparison requirement. A number without its acceptance basis cannot establish that a shaft, bore, or gear should be reused. Ask where the requirement came from: an applicable drawing, manufacturer documentation, or a formally agreed engineering specification. Keep revisions identifiable so later inspections compare like with like.
+
+Separate three statements in the report: what was observed, what was measured, and what is suspected. A visible mark is an observation. A documented dimension is a measurement. An explanation for the mark is a hypothesis until supported by evidence. This distinction helps maintenance and purchasing teams discuss the same findings without turning an early assumption into an approved repair scope.
+
+When does a test report support a return-to-service decision?
+
+Read the test conditions before treating a passed test as proof of production readiness. Identify the speed, load, duration, lubricant, mounting arrangement, instruments, and acceptance requirements recorded. A workshop test and an installed machine can have different conditions. State which checks remain after installation, who performs them, and where the results will be retained. The repair proposal should define these responsibilities before shipment.
+
+Keep baseline readings with the equipment record. Later comparisons are more useful when measurement location, speed, load, and instrument method are consistent. A changed reading warrants investigation, but the number alone does not provide a universal shutdown limit. Use the equipment’s instructions and the facility’s approved condition-monitoring criteria for operating decisions.
+
 How do you prepare a gearbox repair brief?
 
 Use these 4 steps to organize existing records for a service discussion. This is an information checklist, not a disassembly or repair procedure.
