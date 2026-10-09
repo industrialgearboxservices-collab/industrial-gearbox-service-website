@@ -1,0 +1,7 @@
+# Industrial Gearbox Service
+# Informational discovery file; robots.txt controls crawler access.
+Website: https://industrialgearboxservice.com/
+Sitemap: https://industrialgearboxservice.com/sitemap.xml
+Summary: https://industrialgearboxservice.com/llms.txt
+Content: https://industrialgearboxservice.com/llms-full.txt
+Contact: https://industrialgearboxservice.com/contact.html
